@@ -1,0 +1,8 @@
+com\my\project\disconf\service\RedisService.class
+com\my\project\disconf\Starter.class
+com\my\project\disconf\config\XmlMyServerConfig.class
+com\my\project\disconf\service\BaoBaoService.class
+com\my\project\disconf\service\UpdateAnyService.class
+com\my\project\disconf\config\Coefficients.class
+com\my\project\disconf\service\GetAllPropService.class
+com\my\project\disconf\config\RedisConfig.class
